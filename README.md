@@ -37,11 +37,14 @@ Aborda el riego inadecuado en hogares y huertos urbanos, una problemática causa
 
 ## Diagrama del circuito
 
-![Diagrama](Imágenes/diagrama.png)
+![Diagrama](Imágenes/Diseño_Tinkercad.png)
 
 ## Evidencia del sistema
 
-![Sistema](imagenes/sistema.jpg)
+![Sistema](Imágenes/Sistema_LedRojo.jpeg)
+![Sistema](Imágenes/Sistema_LedRojo.jpeg)
+![Sistema](Imágenes/Sistema_LedVerde.jpeg)
+![Sistema](Imágenes/Sistema_LedAmarrillo.jpeg)
 
 ## Código fuente
 
