@@ -42,6 +42,7 @@ Aborda el riego inadecuado en hogares y huertos urbanos, una problemática causa
 ## Evidencia del sistema
 
 ![Sistema1](Imágenes/Sistema_LedRojo.jpeg)
+
 ![Sistema2](Imágenes/Sistema_LedVerde.jpeg)
 ![Sistema3](Imágenes/Sistema_LedAmarrillo.jpeg)
 
