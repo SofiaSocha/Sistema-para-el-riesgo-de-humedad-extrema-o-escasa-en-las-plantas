@@ -48,7 +48,7 @@ Aborda el riego inadecuado en hogares y huertos urbanos, una problemática causa
 El código principal se encuentra en:
 
 ```bash
-codigo/proyecto_final.ino
+PROYECTO_CIRCUITOS_DIGITALES (1).pdf
 ```
 
 ## Video demostrativo
