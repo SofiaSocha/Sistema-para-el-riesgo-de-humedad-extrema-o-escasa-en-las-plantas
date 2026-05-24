@@ -43,4 +43,4 @@ Para ejecutar el proyecto es necesario conectar el sensor de humedad al pin anal
   
    El código principal se encuentra en:
 
-[Códgigo c++](codigo/proyecto_final.ino)
+[Códgigo c++](Código/código_proyecto.ino)
