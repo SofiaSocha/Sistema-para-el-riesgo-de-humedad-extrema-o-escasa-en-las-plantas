@@ -34,6 +34,13 @@ Aborda el riego inadecuado en hogares y huertos urbanos, una problemática causa
    - LED rojo -> Humedad a temperatura caliente
    - LED amarillo -> Humedad a temperatura media
    - LED verde -> No hay humedad
+     
+  ## Código fuente
+     El código principal se encuentra en:
+
+```bash
+
+```
 
 ## Diagrama del circuito
 
@@ -43,13 +50,9 @@ Aborda el riego inadecuado en hogares y huertos urbanos, una problemática causa
 
 ![Sistema1](Imágenes/Evidencia_Sistema.jpg)
 
-## Código fuente
 
-El código principal se encuentra en:
 
-```bash
 
-```
 
 ## Video demostrativo
 
