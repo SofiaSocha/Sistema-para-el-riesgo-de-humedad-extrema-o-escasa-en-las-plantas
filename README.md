@@ -53,7 +53,7 @@ codigo/proyecto_final.ino
 
 ## Evidencia del sistema
 
-![Sistema1](Imágenes/Evidencia_Sistema.jpg)
+![Sistema](Imágenes/Evidencia_Sistema.jpg)
 
 
 
@@ -61,8 +61,9 @@ codigo/proyecto_final.ino
 
 ## Video demostrativo
 
-
-[Link del vídeo:](https://youtu.be/6uTFBj7yWvw)
+Link del vídeo: 
+[Sistema para el riesgo de humedad extrema o
+escasa en las plantas](https://youtu.be/6uTFBj7yWvw)
 
 ## Informe IEEE
 
