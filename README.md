@@ -43,9 +43,8 @@ Para ejecutar el proyecto es necesario conectar el sensor de humedad al pin anal
   
    El código principal se encuentra en:
 
-```bash 
-codigo/proyecto_final.ino
-```
+[Códgigo completo](codigo/proyecto_final.ino)
+
 
 ## Diagrama del circuito
 
