@@ -7,7 +7,7 @@ Proyecto de Circuitos Digitales realizado en la Universidad de San Buenaventura,
 
 ## Problemática
 
-Aborda el riego inadecuado en hogares y huertos urbanos, una problemática causada por la falta de tiempo o conocimiento que provoca la muerte de las plantas por estrés hídrico o exceso de agua, además de un desperdicio del recurso. Este proyecto busca automatizar el monitoreo de humedad para facilitar el cuidado de las plantas y promover el uso eficiente del agua.
+La problemática aborda el riego inadecuado en hogares y huertos urbanos, causada por la falta de tiempo o conocimiento que provoca la muerte de las plantas por estrés hídrico o exceso de agua, además de un desperdicio del recurso. Este proyecto busca automatizar el monitoreo de humedad para facilitar el cuidado de las plantas y promover el uso eficiente del agua.
 
 ## Integrantes
 
