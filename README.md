@@ -24,6 +24,10 @@ Aborda el riego inadecuado en hogares y huertos urbanos, una problemática causa
 - Resistencias de 220Ω
 - Protoboard
 - Cables jumper
+  
+## Instrucciones de uso
+
+Para ejecutar el proyecto es necesario conectar el sensor de humedad al pin analógico A0 del Arduino UNO y los LEDs indicadores a los pines digitales 6, 7 y 8 mediante resistencias de 220 Ω. Posteriormente, se debe cargar el archivo del código desde Arduino IDE utilizando un cable USB conectado al computador. Una vez cargado el programa, el sistema comenzará a leer continuamente los valores de humedad detectados por el sensor y activará automáticamente el LED correspondiente según el nivel registrado. Para replicar el montaje físico se recomienda seguir el diagrama de conexiones incluido en este repositorio. 
 
 ## Funcionamiento
 
