@@ -36,11 +36,10 @@ Aborda el riego inadecuado en hogares y huertos urbanos, una problemática causa
    - LED verde -> No hay humedad
      
   ## Código fuente
-     El código principal se encuentra en:
+  
+   El código principal se encuentra en:
 
-```bash
-
-```
+```bash codigo/proyecto_final.ino```
 
 ## Diagrama del circuito
 
