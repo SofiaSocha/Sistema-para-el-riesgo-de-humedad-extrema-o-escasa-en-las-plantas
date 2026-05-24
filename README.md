@@ -61,9 +61,8 @@ codigo/proyecto_final.ino
 
 ## Video demostrativo
 
-Link del video:
 
-PEGUEN_AQUI_EL_LINK
+[Link del vídeo:](https://youtu.be/6uTFBj7yWvw)
 
 ## Informe IEEE
 
