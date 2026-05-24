@@ -1,53 +1,38 @@
 int sensor = A0;
-
-int ledVerde = 6;
-int ledAmarillo = 8;
-int ledRojo = 7;
-
-int humedad = 0;
+int greenLed = 6;
+int yellowLed = 8;
+int redLed = 7;
+int humidity = 0;
 
 void setup() {
-
-  pinMode(ledVerde, OUTPUT);
-  pinMode(ledAmarillo, OUTPUT);
-  pinMode(ledRojo, OUTPUT);
-
+  pinMode(greenLed, OUTPUT);
+  pinMode(yellowLed, OUTPUT);
+  pinMode(redLed, OUTPUT);
   Serial.begin(9600);
 }
 
 void loop() {
+  humidity = analogRead(sensor);
+  Serial.print("Humidity: ");
+  Serial.println(humidity);
 
-  humedad = analogRead(sensor);
-
-  Serial.print("Humedad: ");
-  Serial.println(humedad);
-
-  // Muy humedo
-  if(humedad <= 400) {
-
-    digitalWrite(ledRojo, HIGH);
-    digitalWrite(ledAmarillo, LOW);
-    digitalWrite(ledVerde, LOW);
-
+  // Very humid
+  if(humidity <= 400) {
+    digitalWrite(redLed, HIGH);
+    digitalWrite(yellowLed, LOW);
+    digitalWrite(greenLed, LOW);
   }
-
-  // Humedad media
-  else if(humedad >= 400  && humedad <= 700) {
-
-    digitalWrite(ledRojo, LOW);
-    digitalWrite(ledAmarillo, HIGH);
-    digitalWrite(ledVerde, LOW);
-
+  // Medium humidity
+  else if(humidity >= 400 && humidity <= 700) {
+    digitalWrite(redLed, LOW);
+    digitalWrite(yellowLed, HIGH);
+    digitalWrite(greenLed, LOW);
   }
-
-
-  // Muy seco
-  else if(humedad >=700) {
-
-    digitalWrite(ledRojo, LOW);
-    digitalWrite(ledAmarillo, LOW);
-    digitalWrite(ledVerde, HIGH);
-
+  // Very dry
+  else if(humidity >= 700) {
+    digitalWrite(redLed, LOW);
+    digitalWrite(yellowLed, LOW);
+    digitalWrite(greenLed, HIGH);
   }
 
   delay(500);
