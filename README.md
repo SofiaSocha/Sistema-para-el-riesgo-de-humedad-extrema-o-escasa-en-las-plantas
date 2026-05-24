@@ -44,24 +44,3 @@ Para ejecutar el proyecto es necesario conectar el sensor de humedad al pin anal
    El código principal se encuentra en:
 
 [Códgigo c++](codigo/proyecto_final.ino)
-
-
-## Diagrama del circuito
-
-![Diagrama](Imágenes/Diseño_Tinkercad.png)
-
-## Evidencia del sistema
-
-![Sistema](Imágenes/Evidencia_Sistema.jpg)
-
-## Video demostrativo
-
-Link del vídeo: 
-[Sistema para el riesgo de humedad extrema o
-escasa en las plantas](https://youtu.be/6uTFBj7yWvw)
-
-## Informe IEEE
-
-El informe técnico completo se encuentra en:
-
-[Proyecto Circuitos Digitales](PROYECTO_CIRCUITOS.pdf)
