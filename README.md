@@ -31,9 +31,9 @@ Aborda el riego inadecuado en hogares y huertos urbanos, una problemática causa
 2. El sensor detecta el nivel de humedad.
 3. El Arduino procesa la lectura analógica.
 4. Dependiendo del valor:
-   - LED rojo -> Muy seco
-   - LED amarillo -> Humedad media
-   - LED verde -> Muy humedo
+   - LED rojo -> Humedad a temperatura caliente
+   - LED amarillo -> Humedad a temperatura media
+   - LED verde -> No hay humedad
 
 ## Diagrama del circuito
 
@@ -48,7 +48,7 @@ Aborda el riego inadecuado en hogares y huertos urbanos, una problemática causa
 El código principal se encuentra en:
 
 ```bash
-PROYECTO_CIRCUITOS_DIGITALES (1).pdf
+
 ```
 
 ## Video demostrativo
@@ -62,5 +62,5 @@ PEGUEN_AQUI_EL_LINK
 El informe técnico completo se encuentra en:
 
 ```bash
-informe/informe.pdf
+
 ```
