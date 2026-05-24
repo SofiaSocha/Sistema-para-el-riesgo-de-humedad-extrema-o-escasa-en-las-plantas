@@ -43,7 +43,7 @@ Para ejecutar el proyecto es necesario conectar el sensor de humedad al pin anal
   
    El código principal se encuentra en:
 
-[Códgigo completo](codigo/proyecto_final.ino)
+[Códgigo c++](codigo/proyecto_final.ino)
 
 
 ## Diagrama del circuito
@@ -53,10 +53,6 @@ Para ejecutar el proyecto es necesario conectar el sensor de humedad al pin anal
 ## Evidencia del sistema
 
 ![Sistema](Imágenes/Evidencia_Sistema.jpg)
-
-
-
-
 
 ## Video demostrativo
 
@@ -68,6 +64,4 @@ escasa en las plantas](https://youtu.be/6uTFBj7yWvw)
 
 El informe técnico completo se encuentra en:
 
-```bash
-PROYECTO_CIRCUITOS.pdf
-```
+[Proyecto Circuitos Digitales](PROYECTO_CIRCUITOS.pdf)
